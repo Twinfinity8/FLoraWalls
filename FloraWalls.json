@@ -1,7 +1,15 @@
-[{
+[
+ {
 	        "name": "Flora 001",
 		"author": "Aryan",
 		"url": "https://raw.githubusercontent.com/Twinfinity8/FLoraWalls/main/project_20220303_1126391-01.png",
 		"dimensions": "3000x6000",
 		"collections": "FLora"
-}]
+ }
+ {              "name": "Flora 002",
+		"author": "Divit",
+		"url": "https://raw.githubusercontent.com/Twinfinity8/FLoraWalls/main/project_20220308_1704445-01.png",
+		"dimensions": "3000x6000",
+		"collections": "Organic"
+ }
+]
